@@ -1126,10 +1126,12 @@ article.embedWrapper_b7e1cb.embedFlexGrow_b7e1cb.embedFull__623de.embed__623de.m
 
 
 .combobox__97e86 {
-backdrop-filter: blur(20px)
+backdrop-filter: blur(20px);
 }
 .chatTarget__01ae2 {
-backdrop-filter: blur(20px)
+backdrop-filter: blur(20px);;
 }
 
-
+.popoutContainer__8641f {
+backdrop-filter: blur(20px);
+}
